@@ -1,3 +1,7 @@
+## Loadstring
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nucax/roblox-lua-aimbot-universal/main/aimbotnucax.lua"))()
+
 # Roblox Lua Aimbot + Triggerbot GUI
 
 A Roblox local script with a fully customizable **Aimbot** and **Triggerbot** featuring wall check, team check, FOV visualization, and mobile-compatible sliders.
