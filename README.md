@@ -1,6 +1,11 @@
 ## Loadstring
+## Loadstring
+
+## Loadstring
+
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nucax/roblox-lua-aimbot-universal/main/aimbotnucax.lua"))()
+```
 
 # Roblox Lua Aimbot + Triggerbot GUI
 
