@@ -1,3 +1,4 @@
+-- i love the beer jerky
 -- https://github.com/nucax/roblox-lua-aimbot-universal
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
@@ -6,6 +7,7 @@ local LocalPlayer = Players.LocalPlayer
 local Camera = workspace.CurrentCamera
 local VirtualUser = game:GetService("VirtualUser")
 
+-- config
 local config = {
     aimbotEnabled = false,
     triggerbotEnabled = false,
